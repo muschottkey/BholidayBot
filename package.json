@@ -1,0 +1,19 @@
+{
+  "name": "BholidayBot",
+  "version": "1.0.0",
+  "description": "Holiday accommodation and flights recommender based on Booking.api",
+  "main": "bholiday.js",
+  "scripts": {
+    "start": "nodejs bholiday.js",
+    "test": ""
+  },
+  "keywords": [
+    "bholidaybot",
+    "holiday"
+  ],
+  "author": "Cyprian",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "twit": "~2.2.4"
+  }
+}
